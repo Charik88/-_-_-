@@ -5,7 +5,7 @@
 //  Created by Anastasiya Charykova on 21.06.2024.
 //
 
-#include "HOMEWORK_4_3.hpp"
+
 #include <iostream>
 #include <string>
 
